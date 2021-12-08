@@ -65589,7 +65589,7 @@ return A.Y($async$ts,r)},
 I(a,b){var s,r=null
 b.Y(t.w).toString
 s=t.p
-s=A.bR(A.c([A.aj(r,A.IK(A.dT(A.c([A.aj(r,A.b9("Data Panel",r,r,r,r,r,r),B.j,r,r,r,r,r,r,r,r,r,r)],s),B.C,B.E,B.t),r),B.j,r,r,r,r,r,r,r,r,r,400),A.du(A.aj(r,new A.Fy(A.c(['<script>function echo(){console.log("echo!!!")};</script>','<script src="https://code.jquery.com/jquery-3.5.1.slim.js" integrity="sha256-DrT5NfxfbHvMHux31Lkhxg42LY6of8TaYyK50jnxRnM=" crossorigin="anonymous"></script>'],t.s),r),B.j,r,r,r,r,r,r,r,r,r,r),1)],s),B.C,B.c2,B.t)
+s=A.bR(A.c([A.du(A.aj(r,new A.Fy(A.c(['<script>function echo(){console.log("echo!!!")};</script>','<script src="https://code.jquery.com/jquery-3.5.1.slim.js" integrity="sha256-DrT5NfxfbHvMHux31Lkhxg42LY6of8TaYyK50jnxRnM=" crossorigin="anonymous"></script>'],t.s),r),B.j,r,r,r,r,r,r,r,r,r,r),1),A.aj(r,A.IK(A.dT(A.c([A.aj(r,A.b9("Data Panel",r,r,r,r,r,r),B.j,r,r,r,r,r,r,r,r,r,r)],s),B.C,B.E,B.t),r),B.j,r,r,r,r,r,r,r,r,r,500)],s),B.C,B.c2,B.t)
 return A.anE(A.nn(A.aj(r,s,B.j,r,r,r,r,r,r,r,r,r,r)),r)},
 ru(){var s=0,r=A.Z(t.z),q=this,p,o,n,m,l
 var $async$ru=A.V(function(a,b){if(a===1)return A.W(b,r)
