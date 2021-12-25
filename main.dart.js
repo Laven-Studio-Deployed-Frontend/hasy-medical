@@ -66336,8 +66336,8 @@ s.ay(new A.Th(s,a))},
 $S:2}
 A.Th.prototype={
 $0(){var s="deviceStateJoined",r=this.a,q=this.b,p=J.S(q)
-r.d=!J.e(p.h(q,s),!0)||!1
-r.e=!J.e(p.h(q,s),!0)||!1},
+r.d=!J.e(p.h(q,s),"true")||!1
+r.e=!J.e(p.h(q,s),"true")||!1},
 $S:0}
 A.Tl.prototype={
 $1(a){var s=B.aC.fY(70),r=B.aC.fY(70),q=B.aC.fY(100),p=B.aC.fY(250),o=this.a
